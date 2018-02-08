@@ -8,7 +8,7 @@
   },
   "author": "Kivanc Sahici",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.12.1"
   }
 }
