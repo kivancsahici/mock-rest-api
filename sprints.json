@@ -1,0 +1,400 @@
+{
+"sprints": [
+{
+"id": 470,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/470",
+"state": "closed",
+"name": "CW46-49",
+"startDate": "2015-11-21T00:00:00.000Z",
+"endDate": "2016-10-09T23:59:59.000Z",
+"completeDate": "2015-12-01T13:28:55.260Z",
+"originBoardId": 89
+},
+{
+"id": 759,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/759",
+"state": "closed",
+"name": "CW09-10",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-03-15T19:18:18.965Z",
+"originBoardId": 461
+},
+{
+"id": 760,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/760",
+"state": "closed",
+"name": "CW11-12",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-03-23T14:18:37.102Z",
+"originBoardId": 461
+},
+{
+"id": 916,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/916",
+"state": "closed",
+"name": "CW13-14",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-04-04T10:25:29.658Z",
+"originBoardId": 461
+},
+{
+"id": 937,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/937",
+"state": "closed",
+"name": "CW15-16",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-05-24T16:14:33.433Z",
+"originBoardId": 461
+},
+{
+"id": 1015,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1015",
+"state": "closed",
+"name": "CW22-23",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-06-08T07:23:40.166Z",
+"originBoardId": 461
+},
+{
+"id": 1026,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1026",
+"state": "closed",
+"name": "CW24-25",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-06-21T07:39:56.467Z",
+"originBoardId": 461
+},
+{
+"id": 1071,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1071",
+"state": "closed",
+"name": "CW26-27",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-07-20T12:22:58.941Z",
+"originBoardId": 461
+},
+{
+"id": 1158,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1158",
+"state": "closed",
+"name": "CW30-32",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-08-10T06:27:30.377Z",
+"originBoardId": 461
+},
+{
+"id": 1207,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1207",
+"state": "closed",
+"name": "CW33-35",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-09-06T08:39:29.037Z",
+"originBoardId": 461
+},
+{
+"id": 1267,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1267",
+"state": "closed",
+"name": "CW36-38",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-10-21T13:24:46.527Z",
+"originBoardId": 461
+},
+{
+"id": 1359,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1359",
+"state": "closed",
+"name": "CW43-46",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-11-10T13:17:59.579Z",
+"originBoardId": 461
+},
+{
+"id": 1383,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1383",
+"state": "closed",
+"name": "CW46-49",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2016-12-12T05:09:10.902Z",
+"originBoardId": 461
+},
+{
+"id": 1453,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1453",
+"state": "closed",
+"name": "CW49-52",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2017-01-02T07:12:36.300Z",
+"originBoardId": 461
+},
+{
+"id": 1520,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1520",
+"state": "closed",
+"name": "CW01-03",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2017-01-24T11:02:45.813Z",
+"originBoardId": 461
+},
+{
+"id": 1592,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1592",
+"state": "closed",
+"name": "CW04-06",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2017-02-15T05:24:33.334Z",
+"originBoardId": 461
+},
+{
+"id": 1600,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1600",
+"state": "closed",
+"name": "CW07-09",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2017-03-09T13:56:18.856Z",
+"originBoardId": 461
+},
+{
+"id": 1713,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1713",
+"state": "closed",
+"name": "CW10-12",
+"startDate": "2017-04-15T00:00:00.000Z",
+"endDate": "2017-04-15T23:59:59.000Z",
+"completeDate": "2017-03-27T10:12:02.186Z",
+"originBoardId": 461
+},
+{
+"id": 1834,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1834",
+"state": "closed",
+"name": "CW13-15",
+"startDate": "2016-06-25T00:00:00.000Z",
+"endDate": "2017-04-22T23:59:59.000Z",
+"completeDate": "2017-04-24T14:51:58.109Z",
+"originBoardId": 461
+},
+{
+"id": 1860,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/1860",
+"state": "closed",
+"name": "CW16-18",
+"startDate": "2017-04-16T23:00:02.278Z",
+"endDate": "2017-05-04T23:59:00.000Z",
+"completeDate": "2017-05-15T05:11:45.747Z",
+"originBoardId": 461
+},
+{
+"id": 3257,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3257",
+"state": "closed",
+"name": "ACME Sprint 10",
+"startDate": "2017-07-03T13:40:55.971Z",
+"endDate": "2017-07-24T11:10:00.000Z",
+"completeDate": "2017-07-21T13:28:16.267Z",
+"originBoardId": 1871
+},
+{
+"id": 3258,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3258",
+"state": "closed",
+"name": "ACME Sprint 11",
+"startDate": "2017-07-25T06:58:55.816Z",
+"endDate": "2017-08-08T06:58:00.000Z",
+"completeDate": "2017-08-07T08:06:52.175Z",
+"originBoardId": 1739
+},
+{
+"id": 2864,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/2864",
+"state": "closed",
+"name": "CW19-21",
+"startDate": "2017-05-08T05:11:18.723Z",
+"endDate": "2017-05-26T06:10:00.000Z",
+"completeDate": "2017-05-26T20:38:02.617Z",
+"originBoardId": 461
+},
+{
+"id": 2936,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/2936",
+"state": "closed",
+"name": "Sprint 8",
+"startDate": "2017-05-29T04:38:00.000Z",
+"endDate": "2017-06-16T14:00:00.000Z",
+"completeDate": "2017-06-17T18:59:46.111Z",
+"originBoardId": 461
+},
+{
+"id": 2947,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/2947",
+"state": "closed",
+"name": "Sprint 9",
+"startDate": "2017-06-19T17:00:00.000Z",
+"endDate": "2017-06-30T14:30:00.000Z",
+"completeDate": "2017-07-06T12:11:41.537Z",
+"originBoardId": 461
+},
+{
+"id": 3387,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3387",
+"state": "closed",
+"name": "ACME Sprint 12",
+"startDate": "2017-08-07T08:48:54.118Z",
+"endDate": "2017-08-21T08:48:00.000Z",
+"completeDate": "2017-08-18T13:40:36.792Z",
+"originBoardId": 1739
+},
+{
+"id": 3457,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3457",
+"state": "closed",
+"name": "ACME Sprint 13",
+"startDate": "2017-08-21T08:26:57.956Z",
+"endDate": "2017-09-08T16:30:00.000Z",
+"completeDate": "2017-09-08T13:30:27.046Z",
+"originBoardId": 1739
+},
+{
+"id": 3530,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3530",
+"state": "closed",
+"name": "ACME Sprint 14",
+"startDate": "2017-09-11T08:52:03.605Z",
+"endDate": "2017-09-22T13:00:00.000Z",
+"completeDate": "2017-09-22T13:57:28.802Z",
+"originBoardId": 1739
+},
+{
+"id": 3077,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3077",
+"state": "closed",
+"name": "Mule Sprint 10",
+"startDate": "2017-07-03T12:10:58.363Z",
+"endDate": "2017-07-24T12:10:00.000Z",
+"completeDate": "2017-07-21T13:34:02.577Z",
+"originBoardId": 461
+},
+{
+"id": 3649,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3649",
+"state": "closed",
+"name": "ACME Sprint 15",
+"startDate": "2017-09-25T08:57:24.901Z",
+"endDate": "2017-10-09T07:00:00.000Z",
+"completeDate": "2017-10-09T11:46:26.839Z",
+"originBoardId": 1739
+},
+{
+"id": 3756,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3756",
+"state": "closed",
+"name": "ACME Sprint 16",
+"startDate": "2017-10-09T11:47:09.598Z",
+"endDate": "2017-10-23T07:30:00.000Z",
+"completeDate": "2017-10-23T08:39:16.780Z",
+"originBoardId": 1739
+},
+{
+"id": 4144,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4144",
+"state": "closed",
+"name": "ACME Sprint 20",
+"startDate": "2017-12-04T08:32:09.416Z",
+"endDate": "2017-12-18T20:52:00.000Z",
+"completeDate": "2017-12-18T07:55:07.482Z",
+"originBoardId": 1739
+},
+{
+"id": 3863,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3863",
+"state": "closed",
+"name": "ACME Sprint 17",
+"startDate": "2017-10-23T08:40:08.539Z",
+"endDate": "2017-11-06T21:00:00.000Z",
+"completeDate": "2017-11-06T07:45:47.812Z",
+"originBoardId": 1739
+},
+{
+"id": 3990,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/3990",
+"state": "closed",
+"name": "ACME Sprint 18",
+"startDate": "2017-11-06T08:32:55.288Z",
+"endDate": "2017-11-20T20:52:00.000Z",
+"completeDate": "2017-11-20T07:53:20.618Z",
+"originBoardId": 1739
+},
+{
+"id": 4030,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4030",
+"state": "closed",
+"name": "ACME Sprint 19",
+"startDate": "2017-11-20T08:41:53.392Z",
+"endDate": "2017-12-04T21:01:00.000Z",
+"completeDate": "2017-12-04T08:00:33.234Z",
+"originBoardId": 1739
+},
+{
+"id": 4239,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4239",
+"state": "closed",
+"name": "ACME Sprint 21",
+"startDate": "2017-12-18T08:08:16.785Z",
+"endDate": "2018-01-02T20:28:00.000Z",
+"completeDate": "2018-01-02T11:05:17.269Z",
+"originBoardId": 1739
+},
+{
+"id": 4354,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4354",
+"state": "closed",
+"name": "ACME Sprint 22",
+"startDate": "2018-01-02T11:26:26.556Z",
+"endDate": "2018-01-15T08:30:00.000Z",
+"completeDate": "2018-01-15T08:04:45.855Z",
+"originBoardId": 1739
+},
+{
+"id": 4405,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4405",
+"state": "closed",
+"name": "ACME Sprint 23",
+"startDate": "2018-01-15T08:18:50.047Z",
+"endDate": "2018-01-29T08:30:00.000Z",
+"completeDate": "2018-01-29T08:17:44.534Z",
+"originBoardId": 1739
+},
+{
+"id": 4491,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4491",
+"state": "active",
+"name": "ACME Sprint 24",
+"startDate": "2018-01-29T07:33:43.476Z",
+"endDate": "2018-02-12T07:30:00.000Z",
+"originBoardId": 1739
+},
+{
+"id": 4619,
+"self": "https://agile.acme.com/rest/agile/1.0/sprint/4619",
+"state": "future",
+"name": "ACME Sprint 25",
+"originBoardId": 1739
+}
+]
+}
