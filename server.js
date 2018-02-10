@@ -1,6 +1,6 @@
 const jsonServer = require('json-server')
 const server = jsonServer.create()
-const router = jsonServer.router('sprints.json')
+const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 
 var avatars = {
@@ -29,3 +29,4 @@ server.use(router)
 server.listen(process.env.PORT || 3000, () => {
   console.log('JSON Server is running')
 })
+
