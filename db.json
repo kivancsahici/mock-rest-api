@@ -34,7 +34,7 @@
             "assignee":{
                "name":"bugs.bunny",
                "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131"
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10125"
                }
             },
             "status":{
@@ -43,7 +43,7 @@
 				  "name":"In Progress"
                }
             },            
-            "summary":"Develop a generic caching service"
+            "summary":"Develop log-in screen"
          }
       },
 	  {
@@ -52,7 +52,7 @@
             "assignee":{
                "name":"bugs.bunny",
                "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131"
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10126"
                }
             },
             "status":{
@@ -61,7 +61,7 @@
 				  "name":"In Progress"
                }
             },            
-            "summary":"Develop a generic caching service"
+            "summary":"Develop authentication service"
          }
       },
 	  {
@@ -70,7 +70,7 @@
             "assignee":{
                "name":"bugs.bunny",
                "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131"
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10127"
                }
             },
             "status":{
@@ -79,7 +79,7 @@
 				  "name":"In Progress"
                }
             },            
-            "summary":"Develop a generic caching service"
+            "summary":"Implement product service"
          }
       },
 	  {
@@ -88,7 +88,7 @@
             "assignee":{
                "name":"bugs.bunny",
                "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131"
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10128"
                }
             },
             "status":{
@@ -97,7 +97,7 @@
 				  "name":"In Progress"
                }
             },            
-            "summary":"Develop a generic caching service"
+            "summary":"Implement loan application service"
          }
       },
 	  {
@@ -106,7 +106,7 @@
             "assignee":{
                "name":"bugs.bunny",
                "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131"
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10129"
                }
             },
             "status":{
@@ -115,7 +115,7 @@
 				  "name":"In Progress"
                }
             },            
-            "summary":"Develop a generic caching service"
+            "summary":"Google Maps integration"
          }
       },
 	  {
@@ -124,7 +124,7 @@
             "assignee":{
                "name":"bugs.bunny",
                "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131"
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10130"
                }
             },
             "status":{
@@ -151,7 +151,7 @@
 				  "name":"In Progress"
                }
             },            
-            "summary":"Develop a generic caching service"
+            "summary":"Test Google Maps Integration"
          }
       }
    ]
