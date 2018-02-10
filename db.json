@@ -41,7 +41,7 @@
                "key":"bugs.bunny",
                "emailAddress":"bugs.bunny@acme.com",
                "avatarUrls":{
-                  "48x48":"https://agile.acme.com/secure/useravatar?avatarId=10122",
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10131",
                   "24x24":"https://agile.acme.com/secure/useravatar?size=small&avatarId=10122",
                   "16x16":"https://agile.acme.com/secure/useravatar?size=xsmall&avatarId=10122",
                   "32x32":"https://agile.acme.com/secure/useravatar?size=medium&avatarId=10122"
@@ -65,7 +65,7 @@
                "description":"A task that needs to be done.",
                "name":"Task"
             },
-            "summary":"[I] Change and bug fix of  Unmerging tool "
+            "summary":"Develop a generic caching service"
          }
       }
    ]
