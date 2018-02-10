@@ -2,7 +2,6 @@
 
 The Mock API assumes that the following fictional team members exist
 
-  - JUnit framework
   - bugs.bunny
   - coyote
   - daffy.duck
