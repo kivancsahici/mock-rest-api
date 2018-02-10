@@ -129,8 +129,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Develop a generic caching service"
@@ -147,8 +147,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Test Google Maps Integration"
@@ -165,8 +165,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Test product service"
@@ -183,8 +183,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Test loan application service"
@@ -201,8 +201,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Test log-in screen"
@@ -219,8 +219,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Test check-out screen"
@@ -237,8 +237,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Test generic caching service"
@@ -255,8 +255,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":4,
-				  "name":"In Progress"
+                  "id":2,
+				  "name": "To Do"
                }
             },            
             "summary":"Implement check-out screen"
