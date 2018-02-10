@@ -129,8 +129,8 @@
             },
             "status":{
                "statusCategory":{
-                  "id":2,
-				  "name": "To Do"
+                  "id":4,
+				  "name":"In Progress"
                }
             },            
             "summary":"Develop a generic caching service"
@@ -147,15 +147,15 @@
             },
             "status":{
                "statusCategory":{
-                  "id":2,
-				  "name": "To Do"
+                  "id":4,
+				  "name":"In Progress"
                }
             },            
             "summary":"Test Google Maps Integration"
          }
       },
 	  {
-         "key":"ACME-1515",
+         "key":"ACME-1516",
          "fields":{
             "assignee":{
                "name":"bugs.bunny",
@@ -173,7 +173,7 @@
          }
       },
 	  {
-         "key":"ACME-1515",
+         "key":"ACME-1517",
          "fields":{
             "assignee":{
                "name":"bugs.bunny",
@@ -191,7 +191,7 @@
          }
       },
 	  {
-         "key":"ACME-1515",
+         "key":"ACME-1518",
          "fields":{
             "assignee":{
                "name":"bugs.bunny",
@@ -209,7 +209,7 @@
          }
       },
 	  {
-         "key":"ACME-1515",
+         "key":"ACME-1519",
          "fields":{
             "assignee":{
                "name":"bugs.bunny",
@@ -227,7 +227,7 @@
          }
       },
 	  {
-         "key":"ACME-1515",
+         "key":"ACME-1520",
          "fields":{
             "assignee":{
                "name":"bugs.bunny",
@@ -245,7 +245,7 @@
          }
       },
 	  {
-         "key":"ACME-1515",
+         "key":"ACME-1521",
          "fields":{
             "assignee":{
                "name":"bugs.bunny",
