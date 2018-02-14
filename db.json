@@ -261,6 +261,114 @@
             },            
             "summary":"Implement check-out screen"
          }
+      },
+	  {
+         "key":"ACME-1522",
+         "fields":{
+            "assignee":{
+               "name":"roadrunner",
+               "avatarUrls":{
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10129"
+               }
+            },
+            "status":{
+               "statusCategory":{
+                  "id":3,
+				  "name": "Closed"
+               }
+            },            
+            "summary":"Performance test"
+         }
+      },
+	  {
+         "key":"ACME-1523",
+         "fields":{
+            "assignee":{
+               "name":"elmer.fudd",
+               "avatarUrls":{
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10125"
+               }
+            },
+            "status":{
+               "statusCategory":{
+                  "id":3,
+				  "name": "Closed"
+               }
+            },            
+            "summary":"User acceptance test"
+         }
+      },
+	  {
+         "key":"ACME-1524",
+         "fields":{
+            "assignee":{
+               "name":"foghorn.leghorn",
+               "avatarUrls":{
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10126"
+               }
+            },
+            "status":{
+               "statusCategory":{
+                  "id":3,
+				  "name": "Closed"
+               }
+            },            
+            "summary":"Develop mock services"
+         }
+      },
+	  {
+         "key":"ACME-1525",
+         "fields":{
+            "assignee":{
+               "name":"daffy.duck",
+               "avatarUrls":{
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10124"
+               }
+            },
+            "status":{
+               "statusCategory":{
+                  "id":3,
+				  "name": "Closed"
+               }
+            },            
+            "summary":"Develop Swagger API contract"
+         }
+      },
+	  {
+         "key":"ACME-1526",
+         "fields":{
+            "assignee":{
+               "name":"bugs.bunny",
+               "avatarUrls":{
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10122"
+               }
+            },
+            "status":{
+               "statusCategory":{
+                  "id":3,
+				  "name": "Closed"
+               }
+            },            
+            "summary":"Create documentation"
+         }
+      },
+	  {
+         "key":"ACME-1526",
+         "fields":{
+            "assignee":{
+               "name":"coyote",
+               "avatarUrls":{
+                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10123"
+               }
+            },
+            "status":{
+               "statusCategory":{
+                  "id":3,
+				  "name": "Closed"
+               }
+            },            
+            "summary":"Chase road runner :)"
+         }
       }
    ]
 }
