@@ -245,24 +245,6 @@
          }
       },
 	  {
-         "key":"ACME-1521",
-         "fields":{
-            "assignee":{
-               "name":"bugs.bunny",
-               "avatarUrls":{
-                  "48x48":"https://dashing-mock-api.herokuapp.com/secure/useravatar?ownerId=coyote&avatarId=10128"
-               }
-            },
-            "status":{
-               "statusCategory":{
-                  "id":2,
-				  "name": "To Do"
-               }
-            },            
-            "summary":"Implement check-out screen"
-         }
-      },
-	  {
          "key":"ACME-1522",
          "fields":{
             "assignee":{
